@@ -70,3 +70,7 @@ This chatbot can be applied in various real-life situations:
 
 *Conclusion*
 This task showcased how to combine NLP with Python to create an interactive chatbot. It illustrated how preprocessing and tools like `NLTK` and `Difflib` can improve the chatbot's performance. The design of the chatbot allows it to be expanded further, providing opportunities for use in customer service, education, and virtual assistance.
+
+*Output*
+
+![Image](https://github.com/user-attachments/assets/96990684-3433-4c67-9b46-54c599641e5b)
